@@ -1,3 +1,5 @@
+```python
+
 """
     examples:
         company = Company(name="Yandex")
@@ -83,7 +85,5 @@ class George(Developer):
         ide           = ['vscode', 'pycharm', 'zed']
         
         return langs, frameworks, specialities, ide
-    
-  
-        
+```
         
